@@ -1,6 +1,6 @@
 FROM mgibio/picard-cwl:2.18.1
 LABEL \
-    description="picard and sambamba for bam sorting"
+    description="picard and sambamba for bam merging"
     
 RUN mkdir /opt/sambamba/ \
     && cd /opt/sambamba/ \
