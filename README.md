@@ -1,1 +1,1 @@
-image with sambamba and picard for sorting bam files
+image with sambamba and picard for merging bam files
